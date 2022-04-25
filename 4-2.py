@@ -1,0 +1,6 @@
+a=int(input("introduzca el primer valor:"))
+b=int(input("introduzca el segundo valor:"))
+print("la suma es:",a+b)
+print("la resta es:",a-b)
+print("la multiplicación es:",a*b)
+print("la división es:",a/b)
